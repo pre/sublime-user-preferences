@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": 1350765323,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"CoffeeScript",
+		"CTags",
+		"DetectSyntax",
+		"Enemy.tmbundle",
+		"Git",
+		"Package Control",
+		"Rails Related Files",
+		"RSpec",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Theme - Soda"
+	]
+}
