@@ -32,6 +32,10 @@
     "keys": ["super+alt+shift+r"],
     "command": "run_tests",
     "args": {"single": true}
+  },
+  {
+    "keys": ["ctrl+shift+."],
+    "command": "erb"
   }
 
 
