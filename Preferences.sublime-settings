@@ -43,6 +43,7 @@
 		".rbx",
 		"bin",
 		"script",
+		"_site",
 		"tmp"
 	],
 	"font_size": 14.0,
