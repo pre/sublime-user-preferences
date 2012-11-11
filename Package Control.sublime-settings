@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1350765323,
+	"auto_upgrade_last_run": 1352655626,
 	"installed_packages":
 	[
 		"Alignment",
@@ -8,7 +8,6 @@
 		"CoffeeScript",
 		"CTags",
 		"DetectSyntax",
-		"Enemy.tmbundle",
 		"ERB Insert and Toggle Commands",
 		"Git",
 		"Package Control",
